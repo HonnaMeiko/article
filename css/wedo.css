@@ -15,9 +15,6 @@ img{border: 0;}
 #top .search{ margin:300px 0px 0px 0px;}
 input[type="text"]{border-radius:4px;border:1px solid #ccc; height:23px; width:300px;}
 input[class="baidu"]{border-radius:4px;border:none; height:25px; width:70px; margin:0px 8px 0px 8px; text-align:center; background:#3385ff; color:#fff;}
-input[class="baidu"]:hover{background:#317ef3;cursor:pointer;}
-input[class="haosou"]{border-radius:4px;border:none; height:25px; width:70px; text-align:center; background:#00be3c; color:#fff;}
-input[class="haosou"]:hover{ background:#1ac550;cursor:pointer;}
 
 /* icon_图标 */
 #icon_list{position: relative;padding: 12px 0px;border: 1px solid #dedede;left:50%; top:-60px; width:1003px; margin:0px 0px 0px -501.5px; background:#ffffff; height:100px;border-radius:4px;opacity:0.98;filter:alpha(opacity=50); -moz-opacity:0.50; opacity:0.50;}
