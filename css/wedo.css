@@ -35,7 +35,6 @@ input[type="text"]{border-radius:4px;border:1px solid #ccc; height:23px; width:3
 .gray{background:#ccc;}/*灰色*/
 .hr_solid{width: 960px;height: 10px;*line-height:0px;margin: 0px 10px 0 10px;}
 .hr_solid_no{border-bottom:none !important;}
-.category {position: relative;width: 1000px;height: 34px;line-height: 34px;}
 .category:hover{background:#f9f3f9;}
 .category a{color: #595959;font-size: 14px;}
 .category a:hover{color: #03C;text-decoration: underline;}
