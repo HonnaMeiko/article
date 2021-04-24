@@ -18,7 +18,6 @@ img{border: 0;}
 #icon_list ul li{ float:left;margin-left: 4px;display: block; width:80px;}
 #icon_list ul li a{overflow: hidden;display: block;width: 80px;height: 85px;border-radius: 2px;padding-top: 10px;padding-bottom: 0px;margin: 0 auto;text-align: center;outline: 0;color: #222;text-decoration: none;}
 #icon_list ul li a:hover{color: white;text-decoration: none;background:#c8bcbc;}
-#icon_list ul li img {border-radius: 2px;display: block;margin: 0 auto;width: 54px;height: 54px;}
 #icon_list ul li .project .title {text-align: center;display: block;margin: 0 auto;margin-top: 3px;line-height: 25px;height: 25px;font-size: 13px;width: 100%;border-radius: 4px;}
 
 /* category_文字 */
