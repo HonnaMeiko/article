@@ -12,7 +12,6 @@ img{border: 0;}
 #top{ width:auto;height:500px;}
 /* icon_图标 */
 #icon_list{position: relative;padding: 12px 0px;border: 1px solid #dedede;left:50%; top:-60px; width:1003px; margin:0px 0px 0px -501.5px; background:#ffffff; height:100px;border-radius:4px;opacity:0.98;filter:alpha(opacity=50); -moz-opacity:0.50; opacity:0.50;}
-#icon_list ul{ position: absolute;zoom: 1;top: 0;left: 0;bottom: 0;right: 0;background-color: #fefefe;}
 #icon_list ul li{ float:left;margin-left: 4px;display: block; width:80px;}
 #icon_list ul li a{overflow: hidden;display: block;width: 80px;height: 85px;border-radius: 2px;padding-top: 10px;padding-bottom: 0px;margin: 0 auto;text-align: center;outline: 0;color: #222;text-decoration: none;}
 #icon_list ul li .project .title {text-align: center;display: block;margin: 0 auto;margin-top: 3px;line-height: 25px;height: 25px;font-size: 13px;width: 100%;border-radius: 4px;}
