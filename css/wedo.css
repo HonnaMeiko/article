@@ -19,7 +19,6 @@ img{border: 0;}
 .Black{background:#000000;}/*黑色*/
 .purple{background:#FF00F5;}/*紫色*/
 .blue{background:#005CFF;}/*蓝色*/
-.gray{background:#ccc;}/*灰色*/
 .hr_solid{width: 960px;height: 10px;*line-height:0px;margin: 0px 10px 0 10px;}
 .hr_solid_no{border-bottom:none !important;}
 .category:hover{background:#f9f3f9;}
