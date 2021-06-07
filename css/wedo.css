@@ -23,7 +23,6 @@ img{border: 0;}
 .category .more:hover{color: #000;}
 .category .type {float: left;width: 80px; padding-left: 10px;}
 .category ul{white-space: nowrap;height: 28px;overflow: hidden;}
-.category li{float: left;width: 112px;}
 
 /* float浮动 */
 #rfloat{position:fixed;right:20px;left: 50%;margin-left: 520px; bottom:30px; width:83px;}
