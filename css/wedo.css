@@ -52,7 +52,6 @@ img{border: 0;}
 #detail_list .category a:hover{ background:#48A7FF; color:#FFFFFF;border-radius: 2px;}
 #detail_list ul{margin-top:0px;overflow:visible;}
 #detail_list ul li{float: left;width: 150px; margin-top:5px; text-align:center;}
-.page_footer{text-align:center; margin:0px; padding:30px 0px 10px 0px;}
 
 /* 其它 */
 #lyb{ height:auto;margin:6px auto 0px;}
