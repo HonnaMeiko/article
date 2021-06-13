@@ -32,7 +32,6 @@ img{border: 0;}
 /* footer 页面底部 */
 .link {width: 1003px;border: 1px solid #CCCCCC;border-radius: 5px;margin: 0 auto;background: white;-moz-box-shadow: 1px 2px 2px #999;opacity:0.80;}
 .link ul li {float: left;height: 27px;margin-left: 20px;font-size: 12px;}
-.link ul li a:hover {color: #33CCFF;text-shadow: 0 0 4px #95DFF8;text-decoration: none;}
 .linktop {width: 1003px;border-bottom: 1px solid #CCCCCC;height: 35px;background: url(../images/link.png) 8px 7px no-repeat;}
 .linktop span {margin-left: 40px;line-height: 35px;font-size: 13px;color: #8C8D8D;}
 .footer p {display: block;height: 13px;text-align: center;font-size: 13px;color: #8C8D8D;line-height: 13px;margin: 10px 0;}
