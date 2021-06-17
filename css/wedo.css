@@ -19,7 +19,6 @@ img{border: 0;}
 .category a:hover{color: #03C;text-decoration: underline;}
 .category .more{position: absolute;top: 0px;right: 6px;font-size: 12px;color: #666;}
 .category .more:hover{color: #000;}
-.category .type {float: left;width: 80px; padding-left: 10px;}
 
 /* float浮动 */
 #rfloat{position:fixed;right:20px;left: 50%;margin-left: 520px; bottom:30px; width:83px;}
