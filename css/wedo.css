@@ -30,7 +30,6 @@ a:hover{color: #039;text-decoration: underline;}
 .linktop {width: 1003px;border-bottom: 1px solid #CCCCCC;height: 35px;background: url(../images/link.png) 8px 7px no-repeat;}
 .linktop span {margin-left: 40px;line-height: 35px;font-size: 13px;color: #8C8D8D;}
 .footer p {display: block;height: 13px;text-align: center;font-size: 13px;color: #8C8D8D;line-height: 13px;margin: 10px 0;}
-.footer{ margin-top:-30px;}
 
 /* 子页-通用 */
 .page_bg{ background:url(../images/zhimoedh_page_bg.jpg) no-repeat; width:1920px; height:250px;position:relative;left:50%;margin-left:-960px;}
