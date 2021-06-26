@@ -42,7 +42,6 @@ a:hover{color: #039;text-decoration: underline;}
 #detail_list .category a{color: #595959;font-size: 14px; text-decoration:none; padding:8px 35px;}
 #detail_list .category a:hover{ background:#48A7FF; color:#FFFFFF;border-radius: 2px;}
 #detail_list ul{margin-top:0px;overflow:visible;}
-#detail_list ul li{float: left;width: 150px; margin-top:5px; text-align:center;}
 
 /* 其它 */
 #lyb{ height:auto;margin:6px auto 0px;}
