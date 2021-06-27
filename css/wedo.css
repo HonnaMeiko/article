@@ -4,7 +4,6 @@
 body {margin: 0px;padding: 0px;font-family: 'Microsoft Yahei';font-size: 14px;overflow-x:hidden;repeat;}
 ul,li{list-style: none; }
 a{color: #969696;text-decoration: none;outline: none;}
-a:hover{color: #039;text-decoration: underline;}
 
 /* icon_图标 */
 #icon_list{position: relative;padding: 12px 0px;border: 1px solid #dedede;left:50%; top:-60px; width:1003px; margin:0px 0px 0px -501.5px; background:#ffffff; height:100px;border-radius:4px;opacity:0.98;filter:alpha(opacity=50); -moz-opacity:0.50; opacity:0.50;}
