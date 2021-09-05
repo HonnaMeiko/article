@@ -98,14 +98,6 @@
 
 		}
 
-		@media screen and (max-width: 736px) {
-
-			html {
-				font-size: 11pt;
-			}
-
-		}
-
 		@media screen and (max-width: 360px) {
 
 			html {
